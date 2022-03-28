@@ -2,12 +2,16 @@
 
 ## I'm a young engineer interested in AI and Neuroscience
 
-- 🧠 Currently intern at INRIA (Aramis Lab) working on Graph Neural Network for image segmentation and explainable AI
-- 👨‍🏫 I teach data science at Le Wagon coding bootcamp
+- 🧠 Currently intern at INRIA ([Aramis Lab](https://www.aramislab.fr/)) working on Graph Neural Network for image segmentation and explainable AI
+- 👨‍🏫 I teach data science at [Le Wagon](https://www.lewagon.com/data-science-course/full-time) coding bootcamp
 - 🤾‍♂️ I love playing handball and skiing
 
 You can check my resume [here](https://drive.google.com/file/d/114n_PhQFbzpDx0Gi9Ff5BpY0hhhcyGF8/view).
 
+<br />
+
+[![website](img/mail_32x32.svg)](mailto:pablovn.mas@gmail.com)
+&nbsp;&nbsp;
 [![website](img/twitter_32x32.svg)](https://twitter.com/pablomasvn)
 &nbsp;&nbsp;
 [![website](img/linkedin_32x32.svg)](https://www.linkedin.com/in/pablo-mas/)
@@ -17,7 +21,6 @@ You can check my resume [here](https://drive.google.com/file/d/114n_PhQFbzpDx0Gi
 [![website](img/medium_32x32.svg)](https://medium.com/@pablovn.mas)
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Matlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
