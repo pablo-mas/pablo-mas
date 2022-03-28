@@ -6,8 +6,7 @@
 - 👨‍🏫 I teach data science at Le Wagon coding bootcamp
 - 🤾‍♂️ I love playing handball and skiing
 
-You can check my resume here : [![website](img/resume_32x32.svg)](https://drive.google.com/file/d/114n_PhQFbzpDx0Gi9Ff5BpY0hhhcyGF8/view)
-### Connect with me:
+You can check my resume [here](https://drive.google.com/file/d/114n_PhQFbzpDx0Gi9Ff5BpY0hhhcyGF8/view).
 
 [![website](img/twitter_32x32.svg)](https://twitter.com/pablomasvn)
 &nbsp;&nbsp;
