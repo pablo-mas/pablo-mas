@@ -8,12 +8,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter_32*32.svg)](https://twitter.com/pablomasvn)
+[![website](img/twitter_32x32.svg)](https://twitter.com/pablomasvn)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pablo-mas/)
+[![website](img/linkedin_32*32.svg)](https://www.linkedin.com/in/pablo-mas/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](img/kaggle_32x32.svg)](https://www.kaggle.com/pablomas)
 
 ### Languages and Tools:
 
