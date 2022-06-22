@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo 👋
 
-## I'm a young engineer interested in AI and chemistry
+## I'm a young engineer interested in AI, chemistry and neuroscience
 
 - 🧠 Currently intern at INRIA ([Aramis Lab](https://www.aramislab.fr/)) working on Graph Neural Network for image segmentation and explainable AI
 - 👨‍🏫 I teach data science at [Le Wagon](https://www.lewagon.com/data-science-course/full-time) coding bootcamp
