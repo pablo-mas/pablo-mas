@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo 👋
 
-## I'm a young engineer interested in AI and Neuroscience
+## I'm a young engineer interested in AI and chemistry
 
 - 🧠 Currently intern at INRIA ([Aramis Lab](https://www.aramislab.fr/)) working on Graph Neural Network for image segmentation and explainable AI
 - 👨‍🏫 I teach data science at [Le Wagon](https://www.lewagon.com/data-science-course/full-time) coding bootcamp
@@ -41,9 +41,9 @@ You can check my resume [here](https://drive.google.com/file/d/114n_PhQFbzpDx0Gi
 <br />
 
 
-<!-- <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="pablo-mas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pablo-mas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details> -->
+</details>
