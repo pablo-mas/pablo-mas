@@ -6,7 +6,7 @@
 - 👨‍🏫 I teach data science at [Le Wagon](https://www.lewagon.com/data-science-course/full-time) coding bootcamp
 - 🤾‍♂️ I love playing handball and skiing
 
-You can check my resume [here](https://drive.google.com/file/d/114n_PhQFbzpDx0Gi9Ff5BpY0hhhcyGF8/view).
+You can check my resume [here](https://github.com/pablo-mas/pablo-mas.github.io/blob/be2a750cd10d140e8b8825815632c2268503d01f/files/cv_20220801.pdf).
 
 <br />
 
