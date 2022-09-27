@@ -1,12 +1,12 @@
 # Hi there, I'm Pablo 👋
 
 ## I'm a young engineer interested in AI, chemistry and neuroscience
-- PhD candidate at [ENS Ulm](https://www.ens.psl.eu/en) and research scientist at [Sanofi](https://www.sanofi.com/en/) in the Molecular Data Sciences team, working machine learning applied to drug discovery and theoretical chemistry. 
-- 🧠 Previsously intern at INRIA ([Aramis Lab](https://www.aramislab.fr/)) working on Graph Neural Network for image segmentation and explainable AI. 
+- 🧪 PhD candidate at [ENS Ulm](https://www.ens.psl.eu/en) and research scientist at [Sanofi](https://www.sanofi.com/en/) in the Molecular Data Sciences team, working machine learning applied to drug discovery and theoretical chemistry
+- 🧠 Previsously intern at INRIA ([Aramis Lab](https://www.aramislab.fr/)) working on Graph Neural Network for image segmentation and explainable AI
 - 👨‍🏫 I teach data science at [Le Wagon](https://www.lewagon.com/data-science-course/full-time) coding bootcamp
 - 🤾‍♂️ I love playing handball and skiing
 
-You can check my resume [here](https://github.com/pablo-mas/pablo-mas.github.io/blob/be2a750cd10d140e8b8825815632c2268503d01f/files/cv_20220801.pdf).
+You can check my resume [here](https://github.com/pablo-mas/pablo-mas.github.io/blob/be2a750cd10d140e8b8825815632c2268503d01f/files/cv_20220801.pdf), fill free to reach me by mail, linkedin or Twitter ! 
 
 <br />
 
