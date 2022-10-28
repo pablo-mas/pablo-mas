@@ -1,7 +1,7 @@
 # Hi there, I'm Pablo 👋
 
 ## I'm a young engineer interested in AI, chemistry and neuroscience
-- 🧪 PhD candidate at [ENS Ulm](https://www.ens.psl.eu/en) and research scientist at [Sanofi](https://www.sanofi.com/en/) in the Molecular Data Sciences team, working machine learning applied to drug discovery and theoretical chemistry
+- 🧪 PhD candidate at [ENS Ulm](https://www.ens.psl.eu/en) and research scientist at [Sanofi](https://www.sanofi.com/en/) in the Molecular Data Sciences team, working on machine learning applied to drug discovery and theoretical chemistry
 - 🧠 Previsously intern at INRIA ([Aramis Lab](https://www.aramislab.fr/)) working on Graph Neural Network for image segmentation and explainable AI
 - 👨‍🏫 I teach data science at [Le Wagon](https://www.lewagon.com/data-science-course/full-time) coding bootcamp
 - 🤾‍♂️ I love playing handball and skiing
@@ -20,7 +20,7 @@ You can check my resume [here](https://github.com/pablo-mas/pablo-mas.github.io/
 &nbsp;&nbsp;
 [![website](img/medium_32x32.svg)](https://medium.com/@pablovn.mas)
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Matlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
@@ -38,12 +38,12 @@ You can check my resume [here](https://github.com/pablo-mas/pablo-mas.github.io/
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
 <br />
-<br />
+<br /> -->
 
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="pablo-mas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pablo-mas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+</details> -->
