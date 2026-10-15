@@ -9,7 +9,7 @@ I love life sciences, in every form: research, product, investment.
 
 If you're bored and have time to kill: [read this](https://pablomas.com/thesis.pdf)  
 
-If you want to talk the corporate way: [LinkedIn](https://www.linkedin.com/in/pablo-mas)  
+If you want to connect the corporate way: [LinkedIn](https://www.linkedin.com/in/pablo-mas)  
 
-If you want to talk the human way: [Email](mailto:pablovn.mas@gmail.com)
+If you want to connect the human way: [Email](mailto:pablovn.mas@gmail.com)
 
