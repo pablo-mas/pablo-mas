@@ -11,7 +11,7 @@ If you're bored and have time to kill you can [read this](https://pablomas.com/t
 
 If you want to connect the [corporate way](https://www.linkedin.com/in/pablo-mas)  
 
-If you want to connect the: [human way](mailto:pablovn.mas@gmail.com)
+If you want to connect the [human way](mailto:pablovn.mas@gmail.com)
 
 Always happy to grab a coffee, in Paris/London mainly.
 
